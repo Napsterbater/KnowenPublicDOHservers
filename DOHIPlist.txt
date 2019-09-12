@@ -49,7 +49,7 @@
 2a01:4f8:1c1c:75b4::1
 2a01:7c8:d002:1ef:5054:ff:fe40:3703
 2a03:b0c0:0:1010::e9a:3001
-#
+#End of Initial file based on DSLr Frodos File
 2606:4700:4700::1111 # Cloudflare IPv6
 2606:4700:4700::1001 # Cloudflare IPv6
 1.0.0.1 # Cloudflare IPv4
